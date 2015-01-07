@@ -1,0 +1,25 @@
+{
+  "name": "issue-manager",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jshickey/learning-spring-boot",
+  "authors": [
+    "Scott Hickey <jscotthickey@gmail.com>"
+  ],
+  "description": "Learning Spring Boot - Issue Manager",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "ASL",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/main/resources/public/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-mobile-bower": "~1.4.2"
+  }
+}
